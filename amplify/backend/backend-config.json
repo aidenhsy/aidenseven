@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "aidenseven0caf1007": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

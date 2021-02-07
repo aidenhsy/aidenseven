@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aidenseven-dev-93402-authRole",
+      "UnauthRoleArn": "arn:aws:iam::334940046797:role/amplify-aidenseven-dev-93402-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::334940046797:role/amplify-aidenseven-dev-93402-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-aidenseven-dev-93402-deployment",
+      "UnauthRoleName": "amplify-aidenseven-dev-93402-unauthRole",
+      "StackName": "amplify-aidenseven-dev-93402",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:334940046797:stack/amplify-aidenseven-dev-93402/9a74cc30-68e4-11eb-9bd1-02ef7a03911e",
+      "AmplifyAppId": "d2zmw7cm3a12ut"
+    },
+    "categories": {
+      "auth": {
+        "aidenseven0caf1007": {}
+      }
+    }
+  }
+}
